@@ -1,0 +1,98 @@
+/* This the header stylesheet */
+.header {
+  text-align: center;
+  background-color: #0c0b0b;
+
+}
+.header > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding: 20px;
+  
+}
+.header > h1 {
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: beige;
+  font-weight:bold;
+}
+.header > p {
+  text-align: center;
+  color: #000;
+  font-size: 17px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: beige;
+  font-weight: bold
+
+}
+
+section {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+
+}
+section > h2 {
+  font-size: 17px;
+  font-weight: bold;
+
+}
+section > h3 li{
+  font-size: 14px;
+  font-weight: normal;
+}
+section > h4{
+  font-size: 12px;
+  font-weight: normal;
+}
+section > a {
+  font-size: 12px;
+  font-weight: bold;
+  display: block;
+  text-align: left;
+  color: brown;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  
+}
+footer > div {
+  background-color: #0c0b0b;
+  font-size: 15px;
+  color: #ffff;
+  text-align: center;
+  height: 50%;
+
+}
+a:last-child  {
+  text-decoration: none;
+}
+
+
+a:link {
+  color: green;
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: red;
+}
+
+
+a:active {
+  color: yellow;
+}
+.line {
+  border-left: 1px solid black;
+  height: 1px;
+  
+}

@@ -1,2 +1,2 @@
-# portfolio
-webpage
+# portofolio
+my CV on webpage
